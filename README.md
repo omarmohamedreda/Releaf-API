@@ -7,9 +7,11 @@ Releaf API is the backend service for the **Releaf** graduation project — a co
 - 🧑‍💼 User Authentication & Authorization (JWT, Role-based)
 - 🗺️ Interactive Afforestation Map (browse and mark planted areas)
 - 🌿 Plant Disease Detection (via AI service integration)
+- 🔍 Plant Identification from uploaded images
+- 📚 Browse Plants — Access information about different plant species
+- 📢 Campaigns — Support and join afforestation and environmental campaigns
 - 🌱 My Garden — Track personal trees and plant growth
-- 🛒 Store — E-commerce module to buy/sell plants and supplies
-- 📊 Dashboard — Personalized data and environmental impact tracking
+
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +21,6 @@ Releaf API is the backend service for the **Releaf** graduation project — a co
 - **ORM:** Entity Framework Core
 - **Authentication:** JWT (JSON Web Tokens)
 - **Architecture:** RESTful API
-- **AI Integration:** ML-based plant disease recognition (external service)
+- **AI Integration:** ML-based plant disease recognition & plant identification
 
 
